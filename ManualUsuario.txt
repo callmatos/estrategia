@@ -1,5 +1,7 @@
-Realizando o commit para o stageo stages.
+Realizando o commit para o stageo stages. - Android 4
 
 Adicionando segunda linha após o primeiro commit. Haverá uma atualização agora.
 
-3 mudanca
+3 mudanca foi aplicada
+
+4 inclusao de linha
