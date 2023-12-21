@@ -1,1 +1,3 @@
 Inserindo algo para fazer o primeiro commit.
+
+Adicinando segunda aula de Git
