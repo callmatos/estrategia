@@ -8,3 +8,5 @@ Nova mudanças - mudanças aplicadas no feature-erro com mudanças aplicadas na 
 Mudanças via GitHub.
 
 Mudanças para baixar pelo git fetch
+
+mudando na master para fazer o rebase
