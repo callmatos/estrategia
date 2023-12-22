@@ -1,3 +1,5 @@
 Inserindo algo para fazer o primeiro commit.
 
 Adicinando segunda aula de Git
+
+Mudanças referente a implementacao no branch nota.
