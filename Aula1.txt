@@ -9,3 +9,5 @@ Merge with branch aluno not
 Modificando Aula para pegar dentro do branch aluno
 
 Modificando arquivo aulo na branch teste
+
+Modifcando para fazer o rebase com a master
