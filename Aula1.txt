@@ -11,3 +11,5 @@ Modificando Aula para pegar dentro do branch aluno
 Modificando arquivo aulo na branch teste
 
 Modifcando para fazer o rebase com a master
+
+Fazendo as mudanças para testar o git stash
