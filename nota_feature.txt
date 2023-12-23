@@ -1,1 +1,3 @@
 Novo commit feito na branch nota.
+
+Mudandando nota fiscal. Porém antes foi dado um git stash para não pegar as mudanças da funcionalidade que antes estava fazendo.
